@@ -708,7 +708,6 @@ ul.sub-menu li a {
   max-height: 100%;
   padding: 45px;
   z-index: 4;
-  cursor: url(../img/cursor.png), auto;
 }
 .img .overlay-thumb {
   position: absolute;
