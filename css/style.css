@@ -722,7 +722,9 @@ ul.sub-menu li a {
   z-index: 4;
 }
 .img .overlay-thumb:hover {
-	background: #7fedc8;
+  cursor: pointer;
+  background: #fff;
+  opacity: 0.9;
 }
 
 
